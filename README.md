@@ -34,6 +34,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbu0810&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu0810&theme=default" alt="GitHub Streak" />
-</p>
