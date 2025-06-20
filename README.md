@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khushbu</h1>
-<h3 align="center">CSE undergrad and Passionate about open-source contributions and building scalable tech solutions.</h3>
+<table>
+  <tr>
+    <td>
+      <h3 align="left">
+        CSE undergrad and Passionate about open-source contributions and building scalable tech solutions.
+      </h3>
+    </td>
+    <td>
+      <img align="right" alt="coding" width="300" src="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
+    </td>
+  </tr>
+</table>
 
-<img align="center" alt="coding" width="400" src="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu0810&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu0810" /> </p>
 
