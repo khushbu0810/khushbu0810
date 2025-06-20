@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushbu</h1>
 <h3 align="center">CSE undergrad and Passionate about open-source contributions and building scalable tech solutions.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw3Rz1HveeP99fE5nuEsAJ3I&ust=1750413041639000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD_q_Ca_Y0DFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu0810&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu0810" /> </p>
 
