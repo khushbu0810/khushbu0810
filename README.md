@@ -7,14 +7,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbu0810" alt="khushbu0810" /></a> </p>
 
-- 🔭 What I'm Up To:  
-  **Actively seeking web applications, Android apps using Flutter, and AI/ML projects.**
+<h3 align="center">🔭 What I'm Up To</h3>
+<p align="center">
+  Actively seeking web applications, Android apps using Flutter, and AI/ML projects.
+</p>
 
+<h3 align="center">📫 Connect with Me</h3>
+<p align="center">
+  🌐 <a href="https://your-website.com" target="_blank">Personal Website</a><br>
+  ✉️ Email: <a href="mailto:kahlwt08@gmail.com">kahlwt08@gmail.com</a><br>
+  🔗 <a href="www.linkedin.com/in/khushbu-rani-64a72a36a" target="_blank">LinkedIn: Khushbu Rani</a>
+</p>
 
-- 📫 Connect with Me
-  **[🔗 LinkedIn:](https://www.linkedin.com/in/khushbu-rani-64a72a36a)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/khushbu.0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushbu.0810" height="30" width="40" /></a>
 </p>
