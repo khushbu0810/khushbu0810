@@ -3,8 +3,7 @@
 <div align="center">
   <h3>
     CSE Undergrad and Passionate about open-source contributions
-  </h3>
-  <h3>
+  <br>
     and building scalable tech solutions.
   </h3>
   <img alt="coding" width="400" src="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
