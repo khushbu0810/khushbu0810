@@ -21,10 +21,17 @@
 <br>
 <p align="left">
 <a href="https://instagram.com/khushbu.0810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushbu.0810" height="30" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/swati21568" target="_blank">
-    <img src="https://leetcode.com/u/kahlwt08/" alt="LeetCode" width="40" height="40" />
+  <h3 align="center">📱 Connect with Me</h3>
+<p align="center">
+  <a href="https://www.instagram.com/khushbu.0810" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/kahlwt08/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40" />
+  </a>
+</p>
+
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
