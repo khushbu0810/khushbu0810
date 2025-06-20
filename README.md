@@ -20,7 +20,7 @@
 <p align="left">
   • Actively seeking web applications, Android apps using Flutter, and AI/ML projects.
 </p>
-<br>
+
 <h3 align="left">📫 Connect with Me</h3>
 <p align="left">
   • 🌐 <a href="https://your-website.com" target="_blank">Personal Website</a><br>
