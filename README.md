@@ -1,6 +1,13 @@
-# 💫 About Me:
-I’m a Java Full-Stack Software Engineer at LTIMindtree with 1+ year of experience building and maintaining enterprise web applications. I specialize in Java, Spring Boot, Angular, RESTful APIs, MySQL, Spring Data JPA, and Hibernate, with hands-on experience in Microservices, Apache Kafka, Spring Security, JWT, OAuth 2.0, RBAC, WebSocket, and Docker. I’m particularly interested in backend engineering, system design, low-level design, and building scalable, secure, and maintainable software systems.
+## 💫 About Me
 
+<div align="left">
+
+### <img src="https://img.shields.io/badge/JAVA%20FULL--STACK-4F8CFF?style=flat-square&logo=openjdk&logoColor=black">
+
+I’m a **Java Full-Stack Software Engineer at LTIMindtree** with **1+ year of experience** building and maintaining enterprise web applications.
+I specialize in **Java, Spring Boot, Angular, RESTful APIs, MySQL, Spring Data JPA, and Hibernate**, with hands-on experience in **Microservices, Apache Kafka, Spring Security, JWT, OAuth 2.0, RBAC, WebSocket, and Docker**.
+I’m particularly interested in **backend engineering, system design, low-level design, and building scalable, secure, and maintainable software systems.**
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbu-rani-0bba16411) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:8307734061rani@gmail.com) 
