@@ -1,3 +1,25 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,16,18,20&text=Khushbu%20Rani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Software%20Engineer&descAlignY=60&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=A970FF&center=true&vCenter=true&width=750&lines=Java+Full-Stack+Software+Engineer;Spring+Boot+%7C+Angular+%7C+Microservices;System+Design+%7C+Low-Level+Design;Building+Secure+%26+Maintainable+Applications" />
+
+<br><br>
+
+
+<a href="https://khushbu-rani.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/khushbu-ahlawat/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+<img src="https://komarev.com/ghpvc/?username=khushbu0810&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS">
+
+</div>
+
 ## 💫 About Me
 
 <div align="left">
