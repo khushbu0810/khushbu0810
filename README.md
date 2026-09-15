@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/khushbu-ahlawat/">
+<a href="https://www.linkedin.com/in/khushbu-rani-0bba16411/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
